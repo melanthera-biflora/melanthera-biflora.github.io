@@ -1,22 +1,23 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "A multiregional image-text dataset and benchmark for vision-language modeling of plant diseases"
+date:           2026-06-15 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+# pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
-semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+pub_post:       'Under review.'
+#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2026"
+#semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:          /assets/images/covers/cover3.jpg
+  Plant disease datasets are often fragmented, dominated by controlled-environment imagery, and insufficient for developing transferable AI systems. Here, we present LeafMD, a multimodal resource combining LeafNet 2.0—255,855 image–text pairs spanning 37 crops, 197 crop–disease classes, and nine geographic regions—with LeafBench 2.0, a benchmark evaluating fine-grained pathological reasoning across nine tasks. Evaluation of 16 vision–language models reveals substantial gaps between disease recognition and symptom-level reasoning, highlighting LeafMD’s value for developing disease-aware agricultural foundation models.
+#cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Trang V. Nguyen*#
+  - Khang Nguyen Quoc*
+  - David Harwath
+  - Luyl-Da Quach
+  - Phuong D. Dao#
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Dataset: https://huggingface.co/collections/enalis/leafmd
+  Preprint: https://www.biorxiv.org/content/10.64898/2026.07.01.735881v2.abstract
 ---
