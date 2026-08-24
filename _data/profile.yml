@@ -33,6 +33,10 @@ short_bio: >-
     My current CV (updated August 22, 2026):
   </p>
 
+misc_text_justify: false
+misc: >-
+  <ul> <li>The name “melanthera-biflora” comes from <i>Melanthera biflora</i>, the scientific name of the sea daisy. Daisy is my English name, while “sea” is a nod to hydrology—the field where my scientific journey began.</li> <li>I adopted a cat to help with my anxiety, only to discover that he has anxiety too. Like cat, like owner.</li> <li>I love matcha, Sephora, and starting new side projects before finishing the previous ones.</li> </ul>
+
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
   Photo by Thanh Ha—an excellent photographer and one of my favorite travel buddies.
